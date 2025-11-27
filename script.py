@@ -1,0 +1,1 @@
+print('script de python corriendo en el contenedor de ubuntu')
